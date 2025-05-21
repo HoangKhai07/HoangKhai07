@@ -30,6 +30,7 @@
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
